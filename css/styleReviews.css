@@ -1,0 +1,209 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image:url(../img/heart-pizza.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    max-width: 1550px;
+    margin: 0 auto;
+}
+header{
+    height: 120px;
+    margin-top: 0px;
+    background-image: url(../img/black-background-wood.jpg);
+    line-height: 120px;
+    max-width: 1550px;
+    margin: 0 auto;
+    margin-top: -20px;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-left: 450px;
+    margin-top: -155px;
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+}
+li{
+    display: inline;
+    margin-left: 50px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.pizza1{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.pizza2{
+    margin-left:-50px;
+}
+.pizza3{
+    margin-left: -50px;
+}
+.pizza4{
+    margin-left: -50px;
+}
+.icon{
+    float: right;
+    margin-top: -134px;
+    margin-right: 340px;
+}
+.reviews{
+    text-align: center;
+    border: 2px solid grey;
+    width: 830px;
+    height: 300px;
+    margin-left: 22.5%;
+    margin-top: 60px;
+    font-family: 'Pacifico', cursive;
+    box-shadow: 0 0 20px black;
+}
+.block-form{
+    width: 830px;
+    height: 300px;
+    border: 2px solid grey;
+    margin-left: 22.5%;
+    margin-top: 30px;
+    font-family: 'Pacifico',cursive;
+    box-shadow: 0 0 20px black;
+}
+.name-txt{
+    margin-left: 20px;
+    width: 250px;
+    border-radius: 10px;
+    font-family: 'Pacifico',cursive;
+}
+.email{
+    margin-left: 38px;
+    width: 250px;
+    border-radius: 10px;
+    font-family: 'Pacifico',cursive;
+}
+.address-txt{
+    width: 250px;
+    border-radius: 10px;
+    font-family: 'Pacifico',cursive;
+}
+.tel{
+    margin-left: 27px;
+    width: 250px;
+    border-radius: 10px;
+    font-family: 'Pacifico',cursive;
+}
+.area{
+    width: 350px;
+    height: 200px;
+    margin-top: -300px;
+    margin-left: 70px;
+    font-family: 'Pacifico',cursive;
+    border-radius: 20px;
+}
+.btn{
+    width: 190px;
+    height: 30px;
+    float: right;
+    margin-right: 57px;
+    border-radius: 20px;
+    background: lawngreen;
+}
+.btn:hover{
+    background: firebrick;
+}
+footer{
+    height: 253px;
+    margin-top: 150px;
+    border: 2px solid grey;
+    box-shadow: 0 0 20px black;
+    width: 830px;
+    margin-left: 341px;    
+    font-family: 'Pacifico',cursive;
+}
+.socials{
+    float: right;
+}
+.more{
+    margin-left: 500px;
+    color: black;
+    font-size: 20px;
+    margin-top: -175px;
+        
+}
+.more p a{
+    color: white;
+}
+.more label{
+    color: white;
+    font-size: 25px;
+}
+.footer-text{
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 20px;
+    color: white;
+    width: 300px;
+    text-align: center;
+}
+.facebook{
+    margin-top: -200px;
+}
+.twitter{
+    margin-top: -200px;
+}
+.man-deliever{
+    float: right;
+    margin-right: -345px;
+    margin-top: -200px;
+}
+#out{
+    width: 830px;
+    margin-left: 22.5%;
+    height: 500px;
+    margin-top: 40px;
+    border: 2px solid grey;
+    box-shadow: 0 0 20px grey;
+    color: black;
+    font-family: 'Pacifico',cursive;
+    font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

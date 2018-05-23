@@ -1,0 +1,86 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(../img/pepper.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    max-width: 1550px;
+    margin: 0 auto;
+}
+header{
+    height: 120px;
+    background-image: url(../img/black-background-wood.jpg);
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+    margin-top: -210px;
+    max-width: 1550px;
+    
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-left: 450px;
+    margin-top: -70px;
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+}
+li{
+    display: inline;
+    margin-left: 50px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.pizza1{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.pizza2{
+    margin-left:-50px;
+}
+.pizza3{
+    margin-left: -50px;
+}
+.pizza4{
+    margin-left: -50px;
+}
+.icon{
+    float: right;
+    margin-top: -70px;
+    margin-right: 340px;
+}
+.shares-one{
+    margin-top: 200px;
+    text-align:center;
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+    width: 700px;
+    margin-left: 30%;
+}
+.shares-two{
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+    width: 700px;
+    margin-left: 30%;
+}
+.shares-three{
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+    width: 700px;
+    margin-left: 30%;
+}
+.bday{
+    transform: rotate(-30deg);
+    float: left;
+    margin-left: -300px;
+    margin-top: 90px;
+}

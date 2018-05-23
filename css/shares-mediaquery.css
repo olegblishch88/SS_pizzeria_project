@@ -1,0 +1,42 @@
+@media screen and (max-width:414px){
+    .nav{
+        display: block;
+        margin-left: -420px;
+        margin-top: 120px;
+    }
+    .nav ul li a{
+        margin-left: -45px;
+    }
+    .logo{
+     display: none;
+    }
+    .icon{
+        display: block;
+        margin-top: -80px;
+        margin-right: 10px;
+    }
+    .shares-one{
+        width: 500px;
+        margin-left: 40px;
+        border: 3px solid black;
+        box-shadow: 0 0 20px black;
+    }
+    hr{
+        display: none;
+    }
+    .shares-two{
+        width: 500px;
+        margin-left: 40px;
+        border: 3px solid black;
+        box-shadow: 0 0 20px black;
+        margin-top: 50px;
+    }
+    .shares-three{
+        width: 500px;
+        margin-left: 40px;
+        border: 3px solid black;
+        box-shadow: 0 0 20px black;
+        margin-top: 50px; 
+    }
+  
+}

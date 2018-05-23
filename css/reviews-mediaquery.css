@@ -1,0 +1,48 @@
+@media screen and (max-width:414px){
+    header{
+        width: 1174px;
+        height: 110px;
+        display: block;
+    }
+    .logo{
+        display: none;
+    }
+    .icon{
+        margin-right:155px;
+        margin-top: -114px;
+    }
+    .nav{
+        display: block;
+        margin-left: -420px;
+        margin-top: 150px;
+    }
+    .nav ul li a{
+        margin-left: -45px;
+    }  
+    .reviews{
+        width: 500px;
+        margin-left: 350px;
+        height: 350px;
+    }
+    .block-form{
+        width: 500px;
+        height: 600px;
+        margin-left: 350px;
+        text-align: center;
+    }
+    .area{
+        margin-top: 50px;
+    }
+    .btn{
+        margin-top: 30px;
+    }
+    #out{
+        width: 500px;
+        height: 600px;
+        margin-left: 350px;
+    }
+    footer{
+        margin-left: 170px;
+    }
+   
+}

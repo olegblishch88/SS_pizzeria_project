@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(../img/banner.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 1550px;
+    margin: 0 auto;
+}
+header{
+    height: 120px;
+    background-image:url(../img/black-background-wood.jpg);
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+    font-family: 'Pacifico', cursive;
+    max-width: 1550px;
+    margin: auto;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-left: 450px;
+    margin-top: -70px;
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+}
+li{
+    display: inline;
+    margin-left: 50px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.pizza1{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.pizza2{
+    margin-left:-50px;
+}
+.pizza3{
+    margin-left: -50px;
+}
+.pizza4{
+    margin-left: -50px;
+}
+.icon{
+    float: right;
+    margin-right:340px;
+    margin-top: -81px;
+}
+.info-delivery{
+    background: rgba(0,0,0,0.4);
+    color: white;
+    text-align: center;
+    border: 2px solid black;
+    position: absolute;
+    font-family: 'Pacifico', cursive;
+    box-shadow: 0 0 20px black;
+    max-width: 800px;
+    margin: 0 auto;
+    margin-left: 22.5%;
+    margin-top: 170px;
+}
+footer{
+    margin-top: 1200px;
+    margin-left: 343px;
+    position: absolute;
+    width:800px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    border: 2px solid black;
+    box-shadow: 0 0 20px black;
+    background: rgba(0,0,0,0.4);
+    font-family: 'Pacifico', cursive;
+    
+}
+.more p a{
+    color: white;
+    text-decoration: underline;
+}
+.more label{
+    color: white;
+    font-size: 25px;
+}
